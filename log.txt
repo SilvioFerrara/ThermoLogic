@@ -1,0 +1,54 @@
+In Data: 12-3-3
+durante le 4:5 quindi nella fascia-1 oraria
+
+La temperatura registrata e': calda
+
+L'umidita' percepita: bassa
+
+Il termostato segna lo status : ardente
+
+Quindi il termostato ha impostato i seguenti: 
+Riscaldamenti: off
+Climatizzatore: on
+Deumidificatore: on
+
+
+--------------------------------------------------------
+
+
+In Data: 1-2-4
+durante le 4:7 quindi nella fascia-3 oraria
+
+La temperatura registrata e': fredda
+
+L'umidita' percepita: bassa
+
+Il termostato segna lo status : freddo
+
+Quindi il termostato ha impostato i seguenti: 
+Riscaldamenti: on
+Climatizzatore: off
+Deumidificatore: on
+
+
+--------------------------------------------------------
+
+
+In Data: 3-4-2024
+durante le 9:30 quindi nella fascia-1 oraria
+
+La temperatura registrata e': mite
+
+L'umidita' percepita: bassa
+
+Il termostato segna lo status : asciutto
+
+Quindi il termostato ha impostato i seguenti: 
+Riscaldamenti: off
+Climatizzatore: off
+Deumidificatore: on
+
+
+--------------------------------------------------------
+
+
